@@ -1,4 +1,4 @@
 package guru.sfgframework.sfgpetclinic.model;
 
-public class vet extends Person{
+public class Vet extends Person{
 }
